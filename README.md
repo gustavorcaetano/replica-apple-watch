@@ -1,4 +1,4 @@
-# ⌚ APPLE WATCH STORE: Interface de Seleção
+#  APPLE WATCH STORE: Interface de Seleção
 ### *Fidelidade visual extrema e experiência de compra premium*
 **“A perfeição do design Apple, replicada com precisão técnica.”**
 
@@ -8,23 +8,23 @@
 
 ---
 
-## 🚀 Badges
+##  Badges
 
-### 🧰 Tecnologias & Stack
+###  Tecnologias & Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🎨 Design Style
+###  Design Style
 ![Pixel Perfect](https://img.shields.io/badge/Design-Pixel%20Perfect-black?style=for-the-badge)
 ![Responsivo](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
 
-### 📌 Status do Projeto
+###  Status do Projeto
 ![STATUS](https://img.shields.io/badge/STATUS-CONCLUÍDO-brightgreen?style=for-the-badge)
 
 ---
 
-# 🌟 Sobre o Projeto
+#  Sobre o Projeto
 
 Este projeto é uma réplica de alta fidelidade da página de compra do **Apple Watch**. O foco principal foi recriar a experiência de usuário (UX) refinada da Apple, onde a interface reage instantaneamente às escolhas do cliente.
 
@@ -32,7 +32,7 @@ Desenvolvido como uma peça de **portfólio Front-End**, ele demonstra habilidad
 
 ---
 
-# 🎯 Desafios e Soluções
+#  Desafios e Soluções
 
 Este projeto foi construído para demonstrar atenção aos detalhes e lógica de interface:
 
@@ -45,21 +45,21 @@ Este projeto foi construído para demonstrar atenção aos detalhes e lógica de
 
 ---
 
-# 🔧 Funcionalidades Chave
+#  Funcionalidades Chave
 
 ### 🔗 Seleção Inteligente
 - Alternância entre cores de pulseiras com atualização imediata da galeria.
 - Seleção de tamanho de caixa (41mm vs 45mm) com estados ativos.
 
-### 🖼️ Galeria Interativa
+###  Galeria Interativa
 - Miniaturas que permitem a visualização de diferentes ângulos do produto.
 
-### 💰 Cálculo de Parcelamento
+###  Cálculo de Parcelamento
 - Simulação de valores de parcelamento e desconto à vista atualizados dinamicamente.
 
 ---
 
-# 💻 Tecnologias Utilizadas (O Poder da Stack)
+#  Tecnologias Utilizadas (O Poder da Stack)
 
 | Tecnologia | Função no Projeto | Por que foi escolhida? |
 | :--- | :--- | :--- |
@@ -70,11 +70,11 @@ Este projeto foi construído para demonstrar atenção aos detalhes e lógica de
 
 ---
 
-# 🖥️ Demonstração
+#  Demonstração
 
 🔗 **Site Online:** [gustavorcaetano.github.io/replica-apple-watch/](https://gustavorcaetano.github.io/replica-apple-watch/)
 
-### 📸 Capturas de Tela
+###  Capturas de Tela
 
 > *(Nota: Screenshots da interface replicada)*
 
@@ -82,7 +82,7 @@ Este projeto foi construído para demonstrar atenção aos detalhes e lógica de
 
 ---
 
-# 🎯 Objetivo
+#  Objetivo
 
 Este projeto foi desenvolvido para demonstrar:
 
@@ -93,7 +93,7 @@ Este projeto foi desenvolvido para demonstrar:
 
 ---
 
-# 👨‍💻 Autor
+#  Autor
 
 **Gustavo Ramos Caetano** Desenvolvedor Web • Estudante do IFSP Guarulhos
 
@@ -102,6 +102,6 @@ Este projeto foi desenvolvido para demonstrar:
 
 ---
 
-# 📜 Licença
+#  Licença
 
 Este projeto possui fins estritamente educacionais e de estudo de interface. As marcas e designs pertencem à Apple Inc.
